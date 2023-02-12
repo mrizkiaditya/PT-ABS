@@ -1,0 +1,432 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+body {
+    font-family: "Poppins", sans-serif;
+}
+
+/* NAVBAR */
+.nav-link {
+    color: #2746b0;
+    font-weight: bolder;
+}
+
+.nav-link:hover {
+    color: #ae2525;
+}
+.carousel-item img {
+    height: 80vh;
+}
+
+.carousel-control-prev-icon:hover,
+.carousel-control-next-icon:hover {
+    background-color: #082ca5;
+    transition: 0.2s;
+}
+
+.btn-carousel:hover {
+    background-color: #082ca5;
+}
+
+.jumbotron {
+    background-color: #ffffff;
+}
+
+.contents {
+    margin-top: 5vh;
+}
+
+.text-product {
+    text-align: start;
+}
+
+/* Halaman Home */
+/* Jumbotron */
+
+.icon-arrow {
+    font-size: 30px;
+    font-weight: bolder;
+}
+
+.jumbotron h1,
+h3 {
+    color: #fff73f;
+}
+
+.lead {
+    font-size: 30px;
+    font-weight: 50;
+}
+
+.overlay {
+    width: 100%;
+    height: 100vh;
+    background-color: rgba(0, 0, 0, 0.1);
+    text-shadow: 2px 2px 2px rgba(0, 0, 0, 1);
+}
+
+/* ABOUT */
+
+.about {
+    margin-top: 100px;
+    margin-bottom: 150px;
+}
+
+.title {
+    margin-bottom: 30px;
+}
+
+.about .title h2 {
+    color: #082ca5;
+    font-size: 40px;
+}
+
+.about-body {
+    font-size: 18px;
+}
+
+.btn-read {
+    background-color: #082ca5;
+    width: 150px;
+    color: white;
+    margin-top: 25px;
+}
+
+.btn-read:hover {
+    background-color: white;
+    border: 2px solid #082ca5;
+}
+
+/* PRODUCTS */
+
+.products {
+    background-color: #2746b0;
+}
+
+.products-text {
+    font-size: 40px;
+}
+
+.products .title h2 {
+    padding-top: 100px;
+    color: white;
+    font-weight: 900;
+    font-size: 40px;
+}
+
+.products-body {
+    padding-top: 25px;
+    padding-bottom: 50px;
+}
+
+.btn-product {
+    background-color: white;
+    width: 150px;
+    color: #082ca5;
+    margin-top: 25px;
+}
+
+.btn-product:hover {
+    background-color: black;
+    border: 2px solid #082ca5;
+    color: white;
+}
+
+.table-hover {
+    margin-top: 2rem;
+}
+
+/* contact */
+
+.contact {
+    margin-bottom: 100px;
+}
+
+.contact .title h2 {
+    color: #2746b0;
+    margin-bottom: 100px;
+}
+
+.icon-contact {
+    color: #2746b0;
+    font-size: 60px;
+    font-weight: bolder;
+}
+
+.icon-title {
+    color: black;
+    padding-top: 20px;
+    font-weight: bolder;
+}
+
+.icon-body {
+    color: #082ca5;
+    margin-bottom: 50px;
+    font-size: 18px;
+}
+
+footer {
+    background-color: #051843;
+    font-size: 12px;
+}
+/* p */
+/* p */
+/* p */
+/* p */
+/* p */
+/* p */
+/* p */
+/* p */
+/* p */
+
+/* HALAMAN KONTAK */
+
+.section-contact {
+    background-color: #2746b0;
+}
+
+.header-contact h2 {
+    color: white;
+    font-size: 30px;
+    font-weight: bolder;
+}
+
+.contact-row {
+    padding-top: 75px;
+    padding-bottom: 75px;
+}
+
+.maps {
+    width: 100%;
+    height: 500px;
+}
+
+.maps iframe {
+    width: 100%;
+    height: 100%;
+}
+/* p */
+/* p */
+/* p */
+/* p */
+/* p */
+/* p */
+/* p */
+/* HALAMAN ABOUT */
+
+.section-about {
+    background-color: #2746b0;
+}
+
+.listed-contact {
+    list-style: none;
+    color: white;
+}
+
+.title-about {
+    color: white;
+    padding-top: 100px;
+    font-size: 40px;
+}
+
+.section-about-body {
+    margin-top: 50px;
+    padding-bottom: 100px;
+}
+
+.section-card-about {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.card-about .card-title {
+    color: #082ca5;
+    font-weight: bolder;
+    font-size: 24pt;
+    text-align: center;
+    text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.2);
+    padding-top: 10px;
+}
+
+.card-about .card-text {
+    text-align: center;
+    font-weight: bold;
+    padding-top: 5px;
+    font-size: 12pt;
+}
+
+.card-about-section {
+    height: 200px;
+    margin-bottom: 10px;
+}
+
+.card {
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+}
+
+/* .card-product {
+    height: 530px;
+} */
+
+.card-title {
+    color: #2746b0;
+}
+
+/* .btn-product {
+    background-color: #2746b0;
+} */
+
+.customer-section .title h2 {
+    color: #2746b0;
+    text-align: center;
+    font-weight: bolder;
+    font-size: 40px;
+}
+
+.customer-section {
+    margin-top: 100px;
+    background-color: #e3ebf7;
+    padding-top: 50px;
+    padding-bottom: 100px;
+}
+
+.customer-section .customer-sub-title h2 {
+    padding-top: 20px;
+    color: #2746b0;
+    text-align: center;
+    font-weight: bolder;
+    font-size: 30px;
+}
+
+.row-logo {
+    margin-top: 100px;
+    text-align: center;
+}
+
+.last-row {
+    margin-top: 50px;
+}
+
+.col-logo-first {
+    text-align: right;
+}
+.col-logo-second {
+    text-align: center;
+}
+.col-logo-third {
+    text-align: left;
+}
+
+.bottom-customers {
+    margin-top: 100px;
+}
+
+.bottom-customers li {
+    list-style-type: circle;
+}
+
+.export-text {
+    color: #2746b0;
+    font-weight: bolder;
+    font-size: 40px;
+}
+
+/* HALAMAN Product */
+
+.title-produk {
+    margin-top: 25px;
+    padding-top: 25px;
+}
+
+.title-produk h2 {
+    color: #2746b0;
+    font-weight: 900;
+}
+
+.text-header {
+    color: #2746b0;
+}
+
+.image-produk img {
+    width: 500px;
+}
+
+.body-produk {
+    margin-bottom: 50px;
+}
+
+.image-application img {
+    width: 500px;
+    height: 500px;
+}
+
+/* JUMBO PAGE */
+
+.row-text-table {
+    color: #2746b0;
+}
+
+.listed-jumbo {
+    list-style-type: none;
+}
+
+@media (max-width: 768px) {
+    .bg-jumbotron {
+        min-height: 30vh;
+    }
+    .carousel-item img {
+        width: 100%;
+        height: 100%;
+    }
+    .lead {
+        font-size: 20px;
+    }
+    .text-product {
+        margin-top: 2rem;
+        text-align: center;
+    }
+    .text-header {
+        font-size: 0%;
+    }
+    .card-about .card-title {
+        font-size: 50px;
+    }
+    .card-about .card-text {
+        font-size: 15px;
+    }
+    .row-logo {
+        text-align: left;
+    }
+    .col-logo {
+        margin-bottom: 30px;
+    }
+    .image-produk img {
+        width: 250px;
+    }
+    .image-application img {
+        width: 100%;
+        height: 100%;
+    }
+    .image-application {
+        width: 300;
+        height: 100%;
+    }
+    .col-logo-first,
+    .col-logo-second,
+    .col-logo-third {
+        text-align: center;
+    }
+    .col-logo-last {
+        margin-bottom: 50px;
+    }
+}
+
+.body-product {
+    margin-top: 4rem;
+    margin-bottom: 10rem;
+}
+
+.card-product img {
+    height: 100px;
+}
